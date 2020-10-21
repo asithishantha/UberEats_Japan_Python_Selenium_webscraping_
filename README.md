@@ -6,7 +6,7 @@
  
  _Getting to the libraries_
  
-*  is widely used to parse the HTML files
+*  soup is widely used to parse the HTML files
  
 *  Pandas is used to create structured data
 
